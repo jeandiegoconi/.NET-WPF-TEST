@@ -3,7 +3,7 @@ super guia
 - Crear proyecto/Solución en blanco
 - Agregar los proyectos correspondientes a la solución en blanco
 - hacer las 3 capas (main, negocio, datos)
-- hacer referencias entre las tres
+- hacer referencias entre las tres (main ->negocio, datos) (negocio ->datos)
 - despues agrega paquetes nuget
 - “examinar” buscar: entity framework
 - aplicar a todas las capas y poner versión 6.4.4
