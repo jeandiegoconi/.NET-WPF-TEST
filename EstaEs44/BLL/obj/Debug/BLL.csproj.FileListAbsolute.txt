@@ -1,0 +1,9 @@
+C:\Users\alumnosinf\source\repos\CER1-OssandonLucas\BLL\bin\Debug\BLL.dll
+C:\Users\alumnosinf\source\repos\CER1-OssandonLucas\BLL\bin\Debug\BLL.pdb
+C:\Users\alumnosinf\source\repos\CER1-OssandonLucas\BLL\bin\Debug\DAL.dll
+C:\Users\alumnosinf\source\repos\CER1-OssandonLucas\BLL\bin\Debug\DAL.pdb
+C:\Users\alumnosinf\source\repos\CER1-OssandonLucas\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\alumnosinf\source\repos\CER1-OssandonLucas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\alumnosinf\source\repos\CER1-OssandonLucas\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\alumnosinf\source\repos\CER1-OssandonLucas\BLL\obj\Debug\BLL.dll
+C:\Users\alumnosinf\source\repos\CER1-OssandonLucas\BLL\obj\Debug\BLL.pdb

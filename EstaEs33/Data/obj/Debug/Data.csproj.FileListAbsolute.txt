@@ -4,3 +4,9 @@ C:\Users\alumnosinf\source\repos\CER1-VictorianoJaime\Data\obj\Debug\Data.csproj
 C:\Users\alumnosinf\source\repos\CER1-VictorianoJaime\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
 C:\Users\alumnosinf\source\repos\CER1-VictorianoJaime\Data\obj\Debug\Data.dll
 C:\Users\alumnosinf\source\repos\CER1-VictorianoJaime\Data\obj\Debug\Data.pdb
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs33\Data\bin\Debug\Data.dll
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs33\Data\bin\Debug\Data.pdb
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs33\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs33\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs33\Data\obj\Debug\Data.dll
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs33\Data\obj\Debug\Data.pdb

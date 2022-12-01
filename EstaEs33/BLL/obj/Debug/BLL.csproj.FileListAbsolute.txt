@@ -7,3 +7,12 @@ C:\Users\alumnosinf\source\repos\CER1-VictorianoJaime\BLL\obj\Debug\BLL.csproj.C
 C:\Users\alumnosinf\source\repos\CER1-VictorianoJaime\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\alumnosinf\source\repos\CER1-VictorianoJaime\BLL\obj\Debug\BLL.dll
 C:\Users\alumnosinf\source\repos\CER1-VictorianoJaime\BLL\obj\Debug\BLL.pdb
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs33\BLL\bin\Debug\BLL.dll
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs33\BLL\bin\Debug\BLL.pdb
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs33\BLL\bin\Debug\Data.dll
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs33\BLL\bin\Debug\Data.pdb
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs33\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs33\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs33\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs33\BLL\obj\Debug\BLL.dll
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs33\BLL\obj\Debug\BLL.pdb
