@@ -1,0 +1,6 @@
+C:\Users\alumnosinf\source\repos\CER1-VictorianoJaime\Data\bin\Debug\Data.dll
+C:\Users\alumnosinf\source\repos\CER1-VictorianoJaime\Data\bin\Debug\Data.pdb
+C:\Users\alumnosinf\source\repos\CER1-VictorianoJaime\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\alumnosinf\source\repos\CER1-VictorianoJaime\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\alumnosinf\source\repos\CER1-VictorianoJaime\Data\obj\Debug\Data.dll
+C:\Users\alumnosinf\source\repos\CER1-VictorianoJaime\Data\obj\Debug\Data.pdb

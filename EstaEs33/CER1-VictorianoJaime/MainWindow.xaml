@@ -1,0 +1,25 @@
+﻿<Window x:Class="CER1_VictorianoJaime.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CER1_VictorianoJaime"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lblPelicula" Content="Pelicula:" HorizontalAlignment="Left" Margin="15,15,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cmbPelicula" HorizontalAlignment="Left" Margin="100,15,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lblJornada" Content="Jornada:" HorizontalAlignment="Left" Margin="15,50,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cmbJornada" HorizontalAlignment="Left" Margin="100,50,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lblCantidad" Content="Cantidad:" HorizontalAlignment="Left" Margin="15,85,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtCantidad" HorizontalAlignment="Left" Height="23" Margin="100,89,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lblNombre" Content="Nombre:" HorizontalAlignment="Left" Margin="15,150,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="23" Margin="100,154,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lblTelefono" Content="Teléfono:" HorizontalAlignment="Left" Margin="15,185,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtTelefono" HorizontalAlignment="Left" Height="23" Margin="100,189,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnAgregar" Content="Agregar" HorizontalAlignment="Left" Margin="100,250,0,0" VerticalAlignment="Top" Width="120" Click="BtnAgregar_Click"/>
+        <Label x:Name="lblInscripcion" Content="" HorizontalAlignment="Left" Margin="420,15,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="lstInscripcion" HorizontalAlignment="Left" Height="197" Margin="300,15,0,0" VerticalAlignment="Top" Width="100" SelectionChanged="LstInscripcion_SelectionChanged"/>
+        <Label x:Name="lblEntradas" Content="" HorizontalAlignment="Left" Margin="420,150,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

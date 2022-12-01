@@ -1,0 +1,12 @@
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs5\Datos\bin\Debug\Datos.dll.config
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs5\Datos\bin\Debug\Datos.dll
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs5\Datos\bin\Debug\Datos.pdb
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs5\Datos\bin\Debug\EntityFramework.dll
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs5\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs5\Datos\bin\Debug\EntityFramework.xml
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs5\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs5\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs5\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs5\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs5\Datos\obj\Debug\Datos.dll
+C:\Users\diego\Documents\GitHub\.NET-WPF-TEST\EstaEs5\Datos\obj\Debug\Datos.pdb
