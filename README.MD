@@ -1,3 +1,5 @@
+super guia
+
 - Crear proyecto/Solución en blanco
 - Agregar los proyectos correspondientes a la solución en blanco
 - hacer las 3 capas (main, negocio, datos)
