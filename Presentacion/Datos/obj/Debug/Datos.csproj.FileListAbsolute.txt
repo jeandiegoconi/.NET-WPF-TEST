@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\Presentacion\Datos\bin\Debug\Datos.dll.config
+C:\Users\diego\source\repos\Presentacion\Datos\bin\Debug\Datos.dll
+C:\Users\diego\source\repos\Presentacion\Datos\bin\Debug\Datos.pdb
+C:\Users\diego\source\repos\Presentacion\Datos\bin\Debug\EntityFramework.dll
+C:\Users\diego\source\repos\Presentacion\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\diego\source\repos\Presentacion\Datos\bin\Debug\EntityFramework.xml
+C:\Users\diego\source\repos\Presentacion\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\diego\source\repos\Presentacion\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Presentacion\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Presentacion\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\diego\source\repos\Presentacion\Datos\obj\Debug\Datos.dll
+C:\Users\diego\source\repos\Presentacion\Datos\obj\Debug\Datos.pdb
+C:\Users\diego\source\repos\Presentacion\Datos\bin\Debug\TareasPendientes.mdf
+C:\Users\diego\source\repos\Presentacion\Datos\bin\Debug\TareasPendientes_log.ldf
