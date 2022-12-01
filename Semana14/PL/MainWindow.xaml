@@ -1,0 +1,22 @@
+﻿<Window x:Class="PL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Clasificación" HorizontalAlignment="Left" Margin="47,39,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.067,-1.383"/>
+        <TextBox x:Name="txtClasificacion" HorizontalAlignment="Left" Height="23" Margin="127,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnNuevaClasificacion" Content="Agregar" HorizontalAlignment="Left" Margin="172,70,0,0" VerticalAlignment="Top" Width="75" Click="BtnNuevaClasificacion_Click" />
+        <ListBox x:Name="lstClasificaciones" HorizontalAlignment="Left" Height="165" Margin="57,177,0,0" VerticalAlignment="Top" Width="190"/>
+        <Button x:Name="btnEliminarClasificacion" Content="Eliminar" HorizontalAlignment="Left" Margin="172,368,0,0" VerticalAlignment="Top" Width="75" Click="BtnEliminarClasificacion_Click"/>
+        <Button x:Name="btnEditarClasificacion" Content="Editar" HorizontalAlignment="Left" Margin="57,368,0,0" VerticalAlignment="Top" Width="75" Click="BtnEditarClasificacion_Click"/>
+        <Button x:Name="btnGuardarClasificacion" Content="Guardar Cambios" HorizontalAlignment="Left" Margin="142,70,0,0" VerticalAlignment="Top" Width="105" Visibility="Hidden" Click="BtnGuardarClasificacion_Click"/>
+        <Button x:Name="btnCancelarEdicion" Content="Cancelar" HorizontalAlignment="Left" Margin="47,70,0,0" VerticalAlignment="Top" Width="75" Visibility="Hidden" Click="BtnCancelarEdicion_Click"/>
+        <TextBox x:Name="txtFiltro" HorizontalAlignment="Left" Height="23" Margin="57,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="102" RenderTransformOrigin="0.348,-0.548"/>
+        <Button x:Name="btnFiltrar" Content="Filtrar" HorizontalAlignment="Left" Margin="172,149,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="BtnFiltrar_Click"/>
+
+    </Grid>
+</Window>

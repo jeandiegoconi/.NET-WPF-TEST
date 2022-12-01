@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ToDoListModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Clasificacion">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Tarea" Relationship="Self.FK_Tarea_ToClasificacion" FromRole="Clasificacion" ToRole="Tarea" />
+  </EntityType>
+  <EntityType Name="Tarea">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Titulo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Detalle" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="FechaVencimiento" Type="DateTime" Precision="3" />
+    <Property Name="IdClasificacion" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Clasificacion" Relationship="Self.FK_Tarea_ToClasificacion" FromRole="Tarea" ToRole="Clasificacion" />
+  </EntityType>
+  <Association Name="FK_Tarea_ToClasificacion">
+    <End Role="Clasificacion" Type="Self.Clasificacion" Multiplicity="1" />
+    <End Role="Tarea" Type="Self.Tarea" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clasificacion">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Tarea">
+        <PropertyRef Name="IdClasificacion" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ToDoListEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Clasificacion" EntityType="Self.Clasificacion" />
+    <EntitySet Name="Tarea" EntityType="Self.Tarea" />
+    <AssociationSet Name="FK_Tarea_ToClasificacion" Association="Self.FK_Tarea_ToClasificacion">
+      <End Role="Clasificacion" EntitySet="Clasificacion" />
+      <End Role="Tarea" EntitySet="Tarea" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
