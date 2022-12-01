@@ -1,0 +1,9 @@
+C:\Users\labinf\source\repos\Semana2\Negocio\bin\Debug\Negocio.dll
+C:\Users\labinf\source\repos\Semana2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\labinf\source\repos\Semana2\Negocio\bin\Debug\Datos.dll
+C:\Users\labinf\source\repos\Semana2\Negocio\bin\Debug\Datos.pdb
+C:\Users\labinf\source\repos\Semana2\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\labinf\source\repos\Semana2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\labinf\source\repos\Semana2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\labinf\source\repos\Semana2\Negocio\obj\Debug\Negocio.dll
+C:\Users\labinf\source\repos\Semana2\Negocio\obj\Debug\Negocio.pdb
